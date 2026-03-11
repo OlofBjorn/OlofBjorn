@@ -6,6 +6,20 @@ I was born in 2004 and have been studying things like PHP, HTML, CSS and SQLite 
 
 I've since before starting my webdeveloper journey studied game design and graphics. 
 
+Recently I've been studying:
+  - PHP
+  - HTML
+  - CSS
+  - SQLite
+  - MySQL
+  - MongoDB
+  - C#
+  - Laravel
+  - React
+  - Wordpress
+
+
+
 <!--
 On my free time in the past I have to an extent dabbled in game modding.
 
