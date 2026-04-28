@@ -43,6 +43,11 @@ Recently I've been studying:
   - Wordpress
   - Typescript
 
+  ---
+
+  ### Internship 
+
+I am currently looking for an internship between 2026-11-23 and 2027-05-28. Message me if you're interested!
 
 
 <!--
