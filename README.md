@@ -45,6 +45,10 @@ Recently I've been studying:
 
   ---
 
+  One project I've worked on, a Pokémon-inspired minigame called RuneArena, is one of the various minigames available to play on the site https://loopland.se/
+
+  ---
+
   ### Internship 
 
 I am currently looking for an internship between 2026-11-23 and 2027-05-28. Message me if you're interested!
