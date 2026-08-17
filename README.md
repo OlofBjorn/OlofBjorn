@@ -51,7 +51,7 @@ Recently I've been studying:
 
   ### Internship 
 
-I am currently looking for an internship between 2026-11-23 and 2027-05-28. Message me if you're interested!
+I am currently looking for an internship between 2026-11-23 and 2027-05-28. Message me if you're interested! I'm especially interested in deciding databases!
 
 
 <!--
