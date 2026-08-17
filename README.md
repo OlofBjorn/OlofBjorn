@@ -42,11 +42,11 @@ Recently I've been studying:
   - React
   - Wordpress
   - Typescript
-
+<!--
   ---
 
   One project I've worked on, a Pokémon-inspired minigame called RuneArena, is one of the various minigames available to play on the site https://loopland.se/
-
+-->
   ---
 
   ### Internship 
