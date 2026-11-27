@@ -49,6 +49,36 @@ Recently I've been studying:
 -->
   ---
 
+  ### Projects
+
+  Some projects I have worked on include:
+
+  ## Paleodig
+
+  A web game about digging up fossils during the 1800's, when we barely knew what these strange bones belonged to.
+
+  My role: Fullstack
+  
+  [Link to repo:](https://github.com/OlofBjorn/Paleodig)
+
+  ## Konfigurator
+
+  A prototype configurator for a soundmixer
+
+  My role: UI development
+
+  [Link to repo:](https://github.com/johnahlenhed/Konfigurator)
+
+  ## RuneArena
+
+  A web game based on Pokémon where you can select one of three creatures and battle a random enemy in turn-based combat.
+
+  My role: Database design, attack system, creature sprites, item use system, etc.
+  
+  [Link to repo:](https://github.com/Otloir/RuneArena)
+
+  ---
+
   ### Internship 
 
 I am currently looking for a 6 month long internship starting in january 2027. Message me if you're interested! I'm especially interested in deciding databases!
