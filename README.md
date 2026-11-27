@@ -49,7 +49,7 @@ Recently I've been studying:
 -->
   ---
 
-  ### Projects
+  ## Projects
 
   Some projects I have worked on include:
 
