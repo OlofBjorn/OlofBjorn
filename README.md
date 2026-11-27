@@ -24,7 +24,7 @@
 
 
 
-### My name is Olof and I am currently studying to be a fullstack webdeveloper.
+## My name is Olof and I am currently studying to be a fullstack webdeveloper.
 
 I was born in 2004 and have been studying things like PHP, HTML, CSS and SQLite on software such as Visual Studio Code and Tableplus. 
 
@@ -53,7 +53,7 @@ Recently I've been studying:
 
   Some projects I have worked on include:
 
-  ## Paleodig
+  ### Paleodig
 
   A web game about digging up fossils during the 1800's, when we barely knew what these strange bones belonged to.
 
@@ -61,7 +61,7 @@ Recently I've been studying:
   
   [Link to repo:](https://github.com/OlofBjorn/Paleodig)
 
-  ## Konfigurator
+  ### Konfigurator
 
   A prototype configurator for a soundmixer
 
@@ -69,7 +69,7 @@ Recently I've been studying:
 
   [Link to repo:](https://github.com/johnahlenhed/Konfigurator)
 
-  ## RuneArena
+  ### RuneArena
 
   A web game based on Pokémon where you can select one of three creatures and battle a random enemy in turn-based combat.
 
@@ -79,7 +79,7 @@ Recently I've been studying:
 
   ---
 
-  ### Internship 
+  ## Internship 
 
 I am currently looking for a 6 month long internship starting in january 2027. Message me if you're interested! I'm especially interested in deciding databases!
 
